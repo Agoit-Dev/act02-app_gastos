@@ -1,9 +1,9 @@
-📊 Proyecto: App Control de Gastos
+# 📊 Proyecto: App Control de Gastos
 
 Una aplicación móvil para la gestión de gastos personales, desarrollada en Kotlin con Jetpack Compose y conectada a Firebase.
 Permite registrar gastos, ingresos, categorías y administrar planes financieros de forma sencilla.
 
-✨ Características
+## ✨ Características
 
 🔐 Autenticación de usuarios (Firebase Authentication)
 
@@ -17,7 +17,7 @@ Permite registrar gastos, ingresos, categorías y administrar planes financieros
 
 ☁️ Almacenamiento en Firestore
 
-🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 Kotlin
 
@@ -27,10 +27,9 @@ Firebase Authentication
 
 Cloud Firestore
 
-MVVM
- como arquitectura
+MVVM como arquitectura
 
-🚀 Instalación
+## 🚀 Instalación
 
 Clona el repositorio:
 
@@ -44,7 +43,7 @@ app/google-services.json
 
 Sincroniza y ejecuta la app en un emulador o dispositivo real.
 
- 📷 Capturas de pantalla
+ ## 📷 Capturas de pantalla
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aff806b4-1a7c-4d55-9684-c7833b703126" alt="Pantalla 1" width="250"/>
@@ -58,7 +57,7 @@ Sincroniza y ejecuta la app en un emulador o dispositivo real.
   <img src="https://github.com/user-attachments/assets/265f5d84-ebe1-4f16-97e2-a24cca7226dc" alt="Pantalla 6" width="250"/>
 </p>
 
-📌 Futuras mejoras
+## 📌 Futuras mejoras
 
 Hilt para inyección de dependencias
 
